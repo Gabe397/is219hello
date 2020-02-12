@@ -13,6 +13,20 @@ class Calculator{
         return this.result = MathOperations.product(a,b)
     }
 
+    subtract(a,b){
+        return this.result = MathOperations.difference(a,b)
+    }
+
+    square(a){
+        return this.result = MathOperations.square(a)
+    }
+
+    squareRoot(a){
+        return this.result = MathOperations.squareRoot(a)
+    }
+
+
+
 
 
 
