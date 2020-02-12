@@ -14,7 +14,7 @@ class Calculator{
     }
 
     subtract(a,b){
-        return this.result = MathOperations.difference(a,b)
+        return this.result = MathOperations.subtract(a,b)
     }
 
     square(a){
@@ -25,6 +25,9 @@ class Calculator{
         return this.result = MathOperations.squareRoot(a)
     }
 
+    sumList(array){
+        return this.result = MathOperations.sumList(array)
+    }
 
 
 
@@ -33,13 +36,3 @@ class Calculator{
 }
 
 module.exports = Calculator;
-
-
-
-
-test
-test('', () => {
-    let Calc = new Calculatro();
-    expect(Calc.add(2,2).toBe(4));
-    expect(Calc.result).toBe(4);
-});
