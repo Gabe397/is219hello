@@ -1,3 +1,4 @@
+
 const Calculator = require('../Calculator');
 
 test('Calculator divide 2 by  2 to equal 1', () => {
