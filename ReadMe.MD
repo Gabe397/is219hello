@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/Gabe397/is219hello.svg?branch=master)](https://travis-ci.com/Gabe397/is219hello)
+
+[![Coverage Status](https://coveralls.io/repos/github/Gabe397/is219hello/badge.svg?branch=master)](https://coveralls.io/github/Gabe397/is219hello?branch=master)
+
 Encapsulation: When a object keeps its state private inside a class so that Other objects don't have access to this state. Objects can only access functions that are public called methods.
 
 Example In Code
