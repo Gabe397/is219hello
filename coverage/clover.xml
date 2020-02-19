@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1582096431634" clover="3.2.0">
+  <project timestamp="1582096431634" name="All files">
+    <metrics statements="53" coveredstatements="48" conditionals="17" coveredconditionals="13" methods="23" coveredmethods="20" elements="93" coveredelements="81" complexity="0" loc="53" ncloc="53" packages="1" files="9" classes="9"/>
+    <file name="Calculator.js" path="C:\Users\gabe3\WebstormProjects\is219hello\Calculator.js">
+      <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="3" methods="7" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+    <file name="MathOperations.js" path="C:\Users\gabe3\WebstormProjects\is219hello\MathOperations.js">
+      <metrics statements="19" coveredstatements="15" conditionals="5" coveredconditionals="3" methods="8" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+    <file name="addition.js" path="C:\Users\gabe3\WebstormProjects\is219hello\addition.js">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <line num="3" count="7" type="stmt"/>
+      <line num="4" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="12" count="7" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+    </file>
+    <file name="divide.js" path="C:\Users\gabe3\WebstormProjects\is219hello\divide.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="multiply.js" path="C:\Users\gabe3\WebstormProjects\is219hello\multiply.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="sanitization.js" path="C:\Users\gabe3\WebstormProjects\is219hello\sanitization.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="square.js" path="C:\Users\gabe3\WebstormProjects\is219hello\square.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="squareRoot.js" path="C:\Users\gabe3\WebstormProjects\is219hello\squareRoot.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="subtract.js" path="C:\Users\gabe3\WebstormProjects\is219hello\subtract.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
