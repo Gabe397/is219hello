@@ -1,8 +1,13 @@
 const MathOperations = require('./MathOperations.js');
 
 class Calculator{
-    add(a,b){
-        return this.result = MathOperations.sum(a,b)
+    add(a = null, b = null) {
+        if (Array.isArray(a)) {
+            return this.result = MathOperations.sum(a);
+
+        } else {
+            return this.result = MathOperations.sum(a, b);
+        }
     }
 
     divide(a,b){

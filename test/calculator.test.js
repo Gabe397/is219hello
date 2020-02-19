@@ -39,8 +39,8 @@ test('Calculator square roots 9 and gets 3 as a result',() =>{
 
 test('Calculator add array of 1,2,3,4 and get result 10', () => {
     let Calc = new Calculator();
-    myarray = [1,2,3,4]
-    expect(Calc.sumList(myarray)).toBe(10);
+    let myArray = [1,2,3,4];
+    expect(Calc.add(myArray)).toBe(10);
     expect(Calc.result).toBe(10);
 
 });
