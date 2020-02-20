@@ -1,5 +1,5 @@
-const squareRoot = require('../squareRoot');
+const squareRooting = require('../squareRooting');
 
 test('square 2 should equal 4', () => {
-    expect(squareRoot(4)).toBe(2);
+    expect(squareRooting.squareRoot(4)).toBe(2);
 });

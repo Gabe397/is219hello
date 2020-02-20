@@ -10,11 +10,11 @@ class Calculator{
         }
     }
 
-    divide(a,b){
+    divide(a = null,b = null){
         return this.result = MathOperations.quotient(a,b)
     }
 
-    multiply(a,b){
+    multiply(a = null,b = null){
         return this.result = MathOperations.product(a,b)
     }
 

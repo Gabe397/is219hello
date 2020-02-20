@@ -19,7 +19,8 @@ with a couple of methods. We solve this by using inheritance where a child class
 
     
 
-Polymorphism: This is used when
-    Example: Sum(a=null,b=null)
+Polymorphism: Allows you to use the same base class or parent class of an object without having to redo the code because each child class 
+will inherent a different form of that method.
+
     
   

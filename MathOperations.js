@@ -1,9 +1,9 @@
 const addition = require('./addition');
-const multiply = require('./multiply');
-const divide = require('./divide');
-const subtract = require('./subtract');
-const square = require('./square');
-const squareRoot = require('./squareRoot');
+const multiplication = require('./multiplication');
+const division = require('./division');
+const subtraction = require('./subtraction');
+const squaring = require('./squaring');
+const squareRooting = require('./squareRooting');
 
 class MathOperations {
     static sum(a = null, b = null) {
@@ -14,19 +14,19 @@ class MathOperations {
         }
     }
     static product(a,b) {
-        return multiply(a,b);
+        return multiplication.multiply(a,b);
     }
     static quotient(a,b) {
-        return divide(a,b);
+        return division.divide(a,b);
     }
     static subtract(a,b){
-        return subtract(a,b)
+        return subtraction.subtract(a,b);
     }
     static square(a){
-        return square(a)
+        return squaring.square(a)
     }
     static squareRoot(a){
-        return squareRoot(a)
+        return squareRooting.squareRoot(a)
     }
 
     static sumList(myarray = []){

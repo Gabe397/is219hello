@@ -48,12 +48,12 @@
       <line num="12" count="7" type="stmt"/>
       <line num="16" count="2" type="stmt"/>
     </file>
-    <file name="divide.js" path="C:\Users\gabe3\WebstormProjects\is219hello\divide.js">
+    <file name="division.js" path="C:\Users\gabe3\WebstormProjects\is219hello\division.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
     </file>
-    <file name="multiply.js" path="C:\Users\gabe3\WebstormProjects\is219hello\multiply.js">
+    <file name="multiplication.js" path="C:\Users\gabe3\WebstormProjects\is219hello\multiplication.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
@@ -67,17 +67,17 @@
       <line num="9" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
     </file>
-    <file name="square.js" path="C:\Users\gabe3\WebstormProjects\is219hello\square.js">
+    <file name="squaring.js" path="C:\Users\gabe3\WebstormProjects\is219hello\squaring.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
     </file>
-    <file name="squareRoot.js" path="C:\Users\gabe3\WebstormProjects\is219hello\squareRoot.js">
+    <file name="squareRooting.js" path="C:\Users\gabe3\WebstormProjects\is219hello\squareRooting.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
     </file>
-    <file name="subtract.js" path="C:\Users\gabe3\WebstormProjects\is219hello\subtract.js">
+    <file name="subtraction.js" path="C:\Users\gabe3\WebstormProjects\is219hello\subtraction.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
