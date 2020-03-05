@@ -1,7 +1,5 @@
-const sum = require('./addition');
-a = 1;
-b = 2;
+const re = require('./csvRead');
 
-c = sum(a,b);
 
-console.log("The answer is: " + c);
+re.read('data/worldcities.csv');
+let allEntry = re.read('data/worldcities.csv');

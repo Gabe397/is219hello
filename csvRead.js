@@ -1,5 +1,6 @@
 const parse = require('csv-parse');
 const fs = require('fs');
+const City = require('./Models/City')
 
 class csvRead{
     static read(csvFile) {
@@ -14,6 +15,8 @@ class csvRead{
                 .on('readable', function(){
                     let record;
                     while (record = this.read()) {
+                        let city = City.create(record);
+                        console.log(city);
                         output.push(record)
                         //Add It to A Model
                     }
@@ -21,7 +24,7 @@ class csvRead{
                 // When we are done, test that the parsed output matched what expected
                 .on('end', function(){
 
-                    console.log(output);
+                    //console.log(output);
 
                 }));
 
