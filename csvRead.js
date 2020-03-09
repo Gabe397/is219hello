@@ -18,14 +18,10 @@ class csvRead{
                         let city = City.create(record);
                         console.log(city);
                         output.push(record)
-                        //Add It to A Model
                     }
                 })
-                // When we are done, test that the parsed output matched what expected
                 .on('end', function(){
-
-                    //console.log(output);
-
+                    //Write Into A SQL.
                 }));
 
         return output;
